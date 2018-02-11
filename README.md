@@ -1,3 +1,3 @@
 # DnaSequence
 
-![](BioSeq.jpg)
+![](BioSequence.jpg)
